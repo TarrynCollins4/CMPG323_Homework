@@ -1,4 +1,4 @@
-Development
+Production
 # CMPG323_Homework
 ## Problem Statement:
 This code calculates prime numbers between two positive numbers
